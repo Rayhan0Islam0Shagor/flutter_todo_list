@@ -1,0 +1,9 @@
+analyzer:
+  errors:
+    avoid_print: ignore
+    must_be_immutable: ignore
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
